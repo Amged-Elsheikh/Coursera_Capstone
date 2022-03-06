@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This repository is for IBM Data science Capstone project
+<h1>Coursera_Capstone</h1>
+This repository is for IBM Data science Capstone project.
